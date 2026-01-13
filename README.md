@@ -5,5 +5,5 @@
 
 ### ☠️ Tech Stack of Madness
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,arch,cpp,cs,js,html,css,python,react,fedora" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,arch,cs,js,html,css,python" />
 </p>
