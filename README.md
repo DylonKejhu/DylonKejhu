@@ -7,5 +7,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,docker,arch,cpp,cs,js,html,css,python,react,fedora" />
 </p>
-
-### 💀 Behold the ASCII Doom
