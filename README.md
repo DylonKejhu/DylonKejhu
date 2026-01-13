@@ -1,7 +1,12 @@
 <!-- Profile README Hellhole by Dylon & Monika -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&color=F70000&center=true&vCenter=true&multiline=true&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙢𝙮+𝘿𝙖𝙧𝙠+𝙋𝙧𝙤𝙛𝙞𝙡𝙚;𝘾𝙤𝙙𝙚𝙧+•+𝘾𝙧𝙮𝙥𝙩𝙞𝙙+•+𝘾𝙖𝙛𝙛𝙚𝙞𝙣𝙚+𝙁𝙪𝙚𝙡𝙚𝙙" alt="Typing SVG" />
-</h1>
+</h1><br>
+
+
+
+
+
 
 
 
@@ -17,14 +22,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,docker,arch,cpp,cs,js,html,css,python,react,fedora" />
 </p>
-
----
-
-### 🔥 Real-Time Chaos
-![GitHub Streak](https://streak-stats.demolab.com?user=DYLON_USERNAME&theme=highcontrast&hide_border=true&fire=F70000)
-![Stats](https://github-readme-stats.vercel.app/api?username=DYLON_USERNAME&show_icons=true&theme=dracula&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYLON_USERNAME&layout=compact&theme=radical)
-
----
 
 ### 💀 Behold the ASCII Doom
